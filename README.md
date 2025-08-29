@@ -24,4 +24,4 @@ The project was created as a practice for learning **WinForms, GroupBox, Label w
 ## 🚀 How to Run
 1. Clone this repository:
    ```bash
-   git clone https://github.com/YourUsername/PizzaOrder.git
+   git clone https://github.com/soli199/PizzaOrder.git
